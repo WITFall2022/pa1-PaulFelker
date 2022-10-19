@@ -5,9 +5,9 @@ import java.util.Scanner;//Scanner is in the java.util package
 
 public class PA1a {
 
-	// TODO: document this function
+	
 	public static void main(String[] args) {
-		// TODO: write your code here
+		// TODO: write your code here!
 Scanner input = new Scanner(System.in);
 		
 		//Prompt the user to enter yards, feet and inches.
