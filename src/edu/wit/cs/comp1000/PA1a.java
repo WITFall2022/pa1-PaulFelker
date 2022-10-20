@@ -4,7 +4,7 @@ import java.util.Scanner;//Scanner is in the java.util package
 
 
 public class PA1a {
-	// Class identifier and name function.
+	// Class identifier
 
 	
 	public static void main(String[] args) {
